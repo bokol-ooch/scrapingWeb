@@ -7,6 +7,6 @@ Lanza a pantalla la información sobre el numero de participantes a cada carrera
 
 ![Correo](https://github.com/bokol-ooch/scrapingWeb/blob/main/Captura%20de%20pantalla%202025-07-30%20114516.png "Correo enviado de forma automatica")
 
-![Inscritos]([path/to/your/image.png](https://github.com/bokol-ooch/scrapingWeb/blob/main/inscritos.png) "Correo enviado de forma automatica")
+![Inscritos](https://github.com/bokol-ooch/scrapingWeb/blob/main/inscritos.png "Captura de pantalla corredores inscritos")
 
-![InscritosConDonativo]([path/to/your/image.png](https://github.com/bokol-ooch/scrapingWeb/blob/main/inscritosDonativo.png) "Correo enviado de forma automatica")
+![InscritosConDonativo](https://github.com/bokol-ooch/scrapingWeb/blob/main/inscritosDonativo.png "Captura de pantalla corredores inscritos con donativo")
