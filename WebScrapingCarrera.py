@@ -22,8 +22,8 @@ driver.get("https://admon.marcate.network/admin/")
 time.sleep(1)
 
 # Ingresar credenciales
-driver.find_element(By.NAME, "usuario").send_keys("HYDROLIT2024")
-driver.find_element(By.NAME, "pass").send_keys("HYDROLIT2024" + Keys.RETURN)
+driver.find_element(By.NAME, "usuario").send_keys("xxxxxxx")
+driver.find_element(By.NAME, "pass").send_keys("xxxxxxxxxx" + Keys.RETURN)
 time.sleep(1)
 
 # Ir a la página de inscritos
@@ -91,9 +91,9 @@ driver.quit()
 hoy = datetime.now()
 texto_fecha_hora = hoy.strftime("%Y-%m-%d %H:%M:%S")
 # Configuración del correo
-sender_email = "fernando.cisneros@farmaciazamora.com.mx"
-receiver_email = "fernando.cisneros@farmaciazamora.com.mx"
-password = "&6petniE"
+sender_email = "xxxxxxxxx@farmaciazamora.com.mx"
+receiver_email = "xxxxxxxxxx@farmaciazamora.com.mx"
+password = "xxxxxxxxxx"
 subject = "Corredores inscritos a la carrera al "+texto_fecha_hora
 body = "Corredores inscritos: \n"+msg_text+"\n "+msg_text2
 
