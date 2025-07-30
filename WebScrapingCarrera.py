@@ -1,3 +1,8 @@
+# Script: WebScrapingCarrera.py
+# Autor: Fernando Cisneros Chavez (verdevenus23@gmail.com)
+# Fecha: 30 de julio de 2025
+# Licencia: MIT
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
