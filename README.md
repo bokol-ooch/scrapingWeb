@@ -10,3 +10,5 @@ Lanza a pantalla la información sobre el numero de participantes a cada carrera
 ![Inscritos](https://github.com/bokol-ooch/scrapingWeb/blob/main/inscritos.png "Captura de pantalla corredores inscritos")
 
 ![InscritosConDonativo](https://github.com/bokol-ooch/scrapingWeb/blob/main/inscritosDonativo.png "Captura de pantalla corredores inscritos con donativo")
+
+Se ha realizado una modificacion donde ya no se toma captura de pantalla, se extrae la información del numero de corredores y la fecha de inscripcion para generar una tabla comparativa con el año pasado y con el dia anterior y se envia la tabla por correo.
